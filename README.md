@@ -18,8 +18,8 @@ This project is a simple web application that predicts salaries based on input f
 ## File Structure
 
 - `app.py`: Contains the Streamlit web application code.
-- `model.pkl`: Pickled file containing the trained RandomForestRegressor model.
-- `encoder.pkl`: Pickled file containing the trained OneHotEncoder object.
+- `salaryPrediction.ipynb`: An analysis, EDA and complete model building of the dataset. 
+- `mod.py`: Python file containing model and all the functions used to train it.
 - `Salary Prediction of Data Professions.csv`: Dataset used for model training.
 - `README.md`: This file.
 
